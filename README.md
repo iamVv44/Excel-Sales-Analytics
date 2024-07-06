@@ -6,7 +6,7 @@
 ### Project Objectives
 1. Develop a [Customer Performance Report](https://github.com/iamVv44/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf).
 2. Perform a detailed comparison between [Market Performance and Sales Targets](https://github.com/iamVv44/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf).
-3. Analyze the [Top 10 Products Based on Net Sales for the Years 2020 and 2021](#) and their comparison.
+3. Analyze the [Top 10 Products Based on Net Sales for the Years 2020 and 2021](https://github.com/iamVv44/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf) and their comparison.
 
 ### Purpose of Sales Analytics
 Empower businesses to track and evaluate their sales activities and overall performance.
